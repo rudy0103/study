@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "e2560961bb2c8159",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ef977f07e59d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91bcb5c62aa584ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08e2c494e31be76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f0f21ee0415964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c5fcb079d830f5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd6c706f57e4ce58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f657e212a9c02628",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a8be6efacf5c395",
+    "type": "split",
+    "children": [
+      {
+        "id": "21afa792f36f3d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a40d4a393b5b94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a23bff9e038a791b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "493918cdee10e378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "078640b09be82b8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "91bcb5c62aa584ae",
+  "lastOpenFiles": [
+    "redux/Redux with Async (redux-thunk).md",
+    "redux/README.md",
+    "redux/Redux Tool Kit.md",
+    "redux/React with Redux.md"
+  ]
+}
