@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "redux/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ab50e4258d73860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graphQL/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "graphQL/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "graphQL/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "graphQL/README.md"
               }
             }
           }
@@ -146,13 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91bcb5c62aa584ae",
+  "active": "1ab50e4258d73860",
   "lastOpenFiles": [
+    "redux/README.md",
+    "graphQL/README.md",
+    "README.md",
+    "graphQL",
     "redux/Redux with Async (redux-thunk).md",
     "redux/Redux Tool Kit.md",
-    "redux/README.md",
     "redux/React with Redux.md",
-    "README.md",
     "redux"
   ]
 }
